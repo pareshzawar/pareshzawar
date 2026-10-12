@@ -19,7 +19,6 @@ I design and run Oracle Cloud platforms for 15+ clients: OCI landing zones, hybr
 
 ### Building now
 
-- **Kladen**: OCI-native visual infrastructure-as-code for managed service providers (in development)
 - **cloudexplorers.club**: writing about OCI, platform engineering and AI
 
 ### Links
